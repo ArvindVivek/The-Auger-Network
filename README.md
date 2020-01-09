@@ -236,7 +236,7 @@ See the page titled "[Ways to Contribute](https://docs.oceanprotocol.com/concept
 ## 🏛 License
 
 ```text
-Copyright 2018 Ocean Protocol Foundation Ltd.
+Copyright 2020 The Auger Network
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
