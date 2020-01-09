@@ -1,5 +1,3 @@
-[![banner](https://ibb.co/5FPzfQS)](https://oceanprotocol.com)
-
 <h1 align="center">The Auger Network</h1>
 
 > 🏄‍♀️ The Auger Network addresses the UN Sustainable Development Goals by serving as a decentralized data marketplace for hosting and sharing consumable data with the world, accessible for everyone.
